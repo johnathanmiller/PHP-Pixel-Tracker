@@ -1,4 +1,4 @@
-# PHPixel
+# PHP Pixel Tracker
 PHP pixel tracking
 
 ## How-to Use
